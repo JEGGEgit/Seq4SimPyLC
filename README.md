@@ -8,6 +8,7 @@ Installation
 ------------
 
 Installation for Windows, Linux is described in:
+**"SimPyLC_HowTo"**
 https://github.com/QQuick/SimPyLC/blob/master/simpylc/simpylc_howto.pdf
 
 Usage
@@ -20,12 +21,17 @@ Usage
 5. The one arm robot torso will then follow 3 predefined angles
 6. "Reset" bit repeats the whole sequence
 
-The robot is still very slow, but this makes it easier to follow the processes. And this is what it looks like:
+Demo
+----
+
+The robot torso movement is still very slow and has a lot of overshoot, but this makes it easier to follow the processes. 
+And this is what it looks like:
+
 ![alt text](https://github.com/JEGGEgit/Seq4SimPyLC/blob/main/demo/seq4simplctorsoangles.gif?raw=true)
 https://github.com/JEGGEgit/Seq4SimPyLC/blob/main/demo/seq4simplctorsoangles.gif
 
 I might also try the suggested procedure to implement such a bang-bang control. 
-You can find a good description in "SimPyLC_HowTo"
+You can find a good description in **"SimPyLC_HowTo"**
 
 
 
