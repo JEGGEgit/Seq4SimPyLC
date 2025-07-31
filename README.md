@@ -23,6 +23,8 @@ Usage
 The robot is still very slow, but this makes it easier to follow the processes.
 
 And this is what it looks like:
+![Image](https://github.com/user-attachments/assets/bf1f7ae8-f861-40ac-a6e7-783bcddd72fe)
+
 https://github.com/JEGGEgit/Seq4SimPyLC/blob/main/demo/seq4simplctorsoangles.gif
 
 I might also try the suggested procedure to implement such a bang-bang control. 
