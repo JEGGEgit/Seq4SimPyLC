@@ -25,6 +25,10 @@ The robot is still very slow, but this makes it easier to follow the processes.
 I might also try the suggested procedure to implement such a bang-bang control. 
 You can find a good description in "SimPyLC_HowTo"
 
+https://github.com/JEGGEgit/Seq4SimPyLC/demo/seq4simplctorsoangles.gif
+
+
+
 
 
 
