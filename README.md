@@ -33,6 +33,18 @@ https://github.com/JEGGEgit/Seq4SimPyLC/blob/main/demo/seq4simplctorsoangles.gif
 I might also try the suggested procedure to implement such a bang-bang control. 
 You can find a good description in **"SimPyLC_HowTo"**
 
+Notes
+-----
+
+The GUI operation as described (Mouse Wheel and PageUP/Dwn) didn't work for me. I'm running the simulation on Windows 10 64-bit (1511) with Python 3.10 32-bit.
+
+And yes, in real life, I'm an old-school PLC programmer. I do simulations directly on the manufacturer's development environment, including Omron's Sysmac Studio.
+
+But I also like Python and I like this concept of **SimPyLC** using Python with OpenGL visualisation.
+
+- Enjoy What You Do -
+- 
+
 
 
 
