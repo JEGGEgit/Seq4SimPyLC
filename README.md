@@ -1,8 +1,10 @@
-Seq4SimPyLC is a sequence level control for SimPyLC
----------------------------------------------------
+Seq4SimPyLC sequence control level for SimPyLC
+-----------------------------------------------
 
-Here is the original project:
+Here is the complete original project:
 https://github.com/QQuick/SimPyLC/
+
+Seq4SimPyLC is just an extension for learning purposes.
 
 Installation
 ------------
@@ -15,7 +17,7 @@ Usage
 -----
 
 1. Go to directory SimPyLC/simulations/one_armed_robot
-2. Replace "world.py" and "control.py" and add this "sequence.py"
+2. **Replace "world.py" and "control.py" and add this "sequence.py"**
 3. Click on world.py (or run world.py from the command line) - requires Python 3.10 installed
 4. Force the "go" bit in the movement control
 5. The one arm robot torso will then follow 3 predefined angles
@@ -40,10 +42,11 @@ The GUI operation as described (Mouse Wheel and PageUP/Dwn) didn't work for me. 
 
 And yes, in real life, I'm an old-school PLC programmer. I do simulations directly on the manufacturer's development environment, including Omron's Sysmac Studio.
 
-But I also like Python and I like this concept of **SimPyLC** using Python with OpenGL visualisation.
+But I also like Python and this concept of **SimPyLC** using Python with OpenGL visualisation.
 
-- Enjoy What You Do -
-- 
+*Enjoy What You Do*
+
+
 
 
 
