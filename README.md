@@ -17,11 +17,11 @@ Usage
 -----
 
 1. Go to directory SimPyLC/simulations/one_armed_robot
-2. **Replace "world.py" and "control.py" and add this "sequence.py"**
+2. **Replace original file with "world.py" and "control.py" and add this "sequence.py"**
 3. Click on world.py (or run world.py from the command line) - requires Python 3.10 installed
-4. Force the "go" bit in the movement control
+4. Force the "go" bit in the "movement control window"
 5. The one arm robot torso will then follow 3 predefined angles
-6. "Reset" bit repeats the whole sequence
+6. "Reset" bit in the "sequence control window" repeats the whole sequence
 
 Demo
 ----
