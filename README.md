@@ -46,7 +46,9 @@ But I also like Python and this concept of **SimPyLC** using Python with OpenGL 
 
 *Enjoy What You Do*
 
+![alt text](https://github.com/JEGGEgit/Seq4SimPyLC/blob/main/demo/seq4simplcdemo640x360.gif?raw=true)
 
+EOF
 
 
 
